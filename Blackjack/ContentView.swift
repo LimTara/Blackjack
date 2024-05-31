@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Blackjack
 //
-//  Created by Tara Lim on 31/5/2024.
+//  Created by Tara Lim on 1/3/2024.
 //
 
 import SwiftUI
